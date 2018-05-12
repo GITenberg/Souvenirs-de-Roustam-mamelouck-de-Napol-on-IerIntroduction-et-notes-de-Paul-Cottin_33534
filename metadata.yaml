@@ -1,0 +1,54 @@
+_repo: Souvenirs-de-Roustam-mamelouck-de-Napol-on-IerIntroduction-et-notes-de-Paul-Cottin_33534
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Cottin, Paul
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '39595'
+    url: http://www.gutenberg.org/2009/agents/39595
+  author_of_introduction:
+    agent_name: Masson, Frédéric
+    aliases:
+    - Masson, Frederic
+    - Masson, Friedrich
+    birthdate: 1847
+    deathdate: 1923
+    gutenberg_agent_id: '34929'
+    url: http://www.gutenberg.org/2009/agents/34929
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roustam
+    aliases:
+    - Roustam, Reza
+    - Rustam, Raza
+    - Roustan
+    - Roustam, Raza
+    deathdate: 1845
+    gutenberg_agent_id: '36457'
+    url: http://www.gutenberg.org/2009/agents/36457
+description: ''
+gutenberg_bookshelf: FR Guerres
+gutenberg_issued: '2010-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33534'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Friends and associates'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Participation, Mameluke'
+- !lcsh 'Roustam, 1782?-1845'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
+- !lcsh 'Mamelukes -- History'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Personal narratives, Armenian'
+title: 'Souvenirs de Roustam, mamelouck de Napoléon Ier
+
+  Introduction et notes de Paul Cottin'
+url: http://www.gutenberg.org/ebooks/33534
