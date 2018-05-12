@@ -31,6 +31,8 @@ creator:
     gutenberg_agent_id: '36457'
     url: http://www.gutenberg.org/2009/agents/36457
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33534#Souvenirs-de-Roustam-mamelouck-de-Napol-on-IerIntroduction-et-notes-de-Paul-Cottin
 gutenberg_bookshelf: FR Guerres
 gutenberg_issued: '2010-08-25'
 gutenberg_type: Text
